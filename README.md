@@ -1,2 +1,1 @@
-# projeto_academico_music_mood
-music_mood
+# Projeto Acadêmico Humor e Música
